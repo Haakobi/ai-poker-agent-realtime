@@ -33,6 +33,6 @@ To ensure improvements were reproducible and basic functionality did not break, 
 * **Theory of Mind:** Model what opponents believe about my agent's strategy.
 
 <p align="center">
-  <img src="assets/live_table.jpg" width="45%" />
-  <img src="assets/architecture.jpg" width="45%" />
+  <img src="assets/Poker.jfif" width="45%" />
+  <img src="assets/Mystep.jfif" width="45%" />
 </p>
