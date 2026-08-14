@@ -32,4 +32,3 @@ To ensure improvements were reproducible and basic functionality did not break, 
 * **Exploit Layer:** Identify and capitalize on recurring weaknesses in opponents.
 * **Theory of Mind:** Model what opponents believe about my agent's strategy.
 ![AI Collective Live Poker Table](Poker.JFIF)
-![AI Collective Live Poker Table](Mystep.JFIF)
